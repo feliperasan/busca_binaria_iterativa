@@ -24,4 +24,4 @@ busca_binária_iterativa(vetor: lista ordenada, n: número de elementos em vetor
     senão
 	escreva "O valor ", x, " foi encontrado na posicao ", indice
 ```
-Código Fonte: [Código em Fortran95](www.google.com)
+Código Fonte: [Código em Fortran95](https://github.com/feliperasan/paa-busca-bin-ria-iterativa/blob/main/code/busca_binaria_iterativa.f95)
